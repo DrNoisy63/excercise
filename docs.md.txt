@@ -1,5 +1,5 @@
 This documetation describes how to use the karel robotic toothbrush
 
-Note that this toothbrush is totally safe to use for children, adults, pets, wildlife and trees
-he toothbrush requires be alive
-
+Note that this toothbrush is totally safe to use for children, adults, pets, wildlife and blue trees
+The toothbrush requires be alive
+and no more
